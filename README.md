@@ -1,1 +1,1 @@
-# github-demo-project repository
+# github-demo-project
